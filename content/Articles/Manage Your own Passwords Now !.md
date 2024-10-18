@@ -131,7 +131,7 @@ pass grep "tulideepanshu@gmail.com"
 ```
 
 ![[pass_grep.png]]
-*Here You can see a simple grep told us which account is it associated to and then show command can be used to view *
+*Here You can see a simple grep told us which account is it associated to and then show command can be used to view*
 
 Other useful commands and example usages
 ```bash
