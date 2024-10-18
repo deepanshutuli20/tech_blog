@@ -2,6 +2,11 @@
 
 Today we are going to be taking a look at a simple yet effective passwords manager tool called pass. While it is easy to use it offers a variety of features such as enabling secrets versioning using get as well as securing your passwords using your self managed gpg key. So lets get started.
 
+## Covered in this article 
+- [[#Download Pass|Downloads]]
+- [[#Steps to Start Using pass|Getting Started With Pass]]
+- [[#Start Storing Passwords|Inserting your first Password]]
+- [[#Using with Git|Leverage Version Control]]
 ## Download Pass
 
 The latest version as of writing this article is 1.7.4.
@@ -73,7 +78,7 @@ Initializing the passwords as a gir repo can be done by typing
 ```bash
 pass git init
 ```
-*This will initialize your password store as a git repo for versioning we will learn how to configure this repo in the upcoming steps.*
+*This will initialize your password store as a git repo for versioning we will learn how to configure this repo in the upcoming steps. Else you can skip [[#Using with Git|here]]*
 
 ## Start Storing Passwords 
 Create new passwords by using the following nomenclature 
