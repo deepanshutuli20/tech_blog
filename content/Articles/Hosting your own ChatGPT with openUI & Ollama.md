@@ -72,4 +72,4 @@ ollama run <model_name>
 
 ![[ollama_gui.png]]
 
-*Main feature of using openUI is that it can offer many more features such as choosing between many LLM's or the ability to upload files for context*
+*The main feature of using openUI is that it can offer many more features such as choosing between many LLM's or the ability to upload files for context*
